@@ -38,8 +38,8 @@ python-fundamentos/
 Na raiz do projeto, crie um arquivo chamado `.env`:
 
 ```env
-NOTION_TOKEN=ntn_xxxxxxxxxxxxxxxxxxxxx
-NOTION_DATABASE_ID=2aca39fc03fc803a8479dbfc33f289ba
+NOTION_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxx
+NOTION_DATABASE_ID=xxxxxxxxxxxxxxxxxxx
 ```
 
 ⚠️ **Nunca versionar esse arquivo**.
